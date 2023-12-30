@@ -1,0 +1,3 @@
+#countcheck.mcfunction
+tellraw @s [{"text":"===============","color":"red","bold":true},{"text":"\nあなたの合計採掘ポイント","color":"green"},{"text":"\nポイント","color":"yellow","bold":true},{"text":"：","color":"gray"},{"score":{"name":"@s","objective":"pick_point"},"color":"gold","bold":true,"hoverEvent":{"action":"show_text","value":[{"text":"高みを目指そう！","color":"aqua"}]}},{"text":"\n===============","color":"red","bold":true,"hoverEvent":{"action":"show_text","value":[{"text":"","color":"aqua"}]}}]
+execute as @s at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~ 0.3 0

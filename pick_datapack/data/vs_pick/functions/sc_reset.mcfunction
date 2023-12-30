@@ -1,0 +1,21 @@
+#スコアリセット
+scoreboard players reset @s diamond_1
+scoreboard players reset @s diamond_2
+scoreboard players reset @s emerald_1
+scoreboard players reset @s emerald_2
+scoreboard players reset @s redstone_1
+scoreboard players reset @s redstone_2
+scoreboard players reset @s rapisu_1
+scoreboard players reset @s rapisu_2
+scoreboard players reset @s coal_1
+scoreboard players reset @s coal_2
+scoreboard players reset @s iron_1
+scoreboard players reset @s iron_2
+scoreboard players reset @s copper_1
+scoreboard players reset @s copper_2
+scoreboard players reset @s gold_1
+scoreboard players reset @s gold_2
+scoreboard players reset @s nether_gold
+scoreboard players reset @s ancient_debris
+scoreboard players reset @s nether_quartz
+scoreboard players reset @s pick_point

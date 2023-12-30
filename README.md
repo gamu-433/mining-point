@@ -24,11 +24,14 @@
 また、古代の残骸は「ネザライトの欠片」として排出されるようになります。  
 
 # 使用方法
-pick_datapackをワールドに導入後、 <code>/function vs_pick:setup  を実行します。  
+pick_datapackをワールドに導入後、 <code>/function vs_pick:setup</code> を実行します。  
 実行すれば導入完了です。動作確認を行ってください。  
 
-ポイントはコマンド <code>/scoreboard objectives setdisplay sidebar pick_point  を実行することで  
+ポイントはコマンド <code>/scoreboard objectives setdisplay sidebar pick_point</code> を実行することで  
 全員のスコアをスコアボードに表示することができます。  
-また、自身のスコアのみを表示したい場合は <code>/function vc_pick:countcheck  を行うことで自身のポイントが表示されます。  
+また、自身のスコアのみを表示したい場合は <code>/function vc_pick:countcheck</code> を行うことでポイントが表示されます。  
   
-スコアをリセットしたい場合は <code>/function vs_pick:sc_reset  を実行するることでリセットすることもできます。
+スコアをリセットしたい場合は <code>/function vs_pick:sc_reset</code> を実行するることでリセットすることもできます。  
+
+# その他
+datapackのバグ等があればお手数ですが<code>gamutyan433@gmail.com</code>までご連絡ください。
